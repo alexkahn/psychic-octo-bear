@@ -9,7 +9,7 @@ The internet, over simplifying greatly, is a network of computers. In fact, a ne
 ### HTTP
 Hypertext Transfer Protocol is the most front-facing web language; you see it everywhere.
 
-    ex: ```http://www.twitter.com```
+ex: ```http://www.twitter.com```
 
 What you have here is an HTTP call to a Domain Name. What's behind the scenes is a verb: GET, POST, PUT, you get the picture. These verbs tell the server "I want THIS file" or "Here's some data" or "Change my contact information." Typing that into a browser asks the computer that stores Twitter for a file, namely the twitter home page. It (usually) complies and now you're there. The process by which that occurs is TCP/IP.
 
