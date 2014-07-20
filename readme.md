@@ -5,6 +5,7 @@ Here's the deal: anyone can help make this series of lessons on how to get going
 
 ## Contents
 
-1. Getting Started
+    1. Getting Started
 Background material on how the internet works and how people interact with it from a more technical standpoint.
-2. First Steps
+    2. First Steps
+An introduction to the command line with pointers to various lessons on Command line basics.
